@@ -10,7 +10,7 @@
 
 ## 📄 My Resume
 
-👉 **[Download My Cybersecurity Resume (PDF)](EN_MONG_Cybersecurity_Resume.pdf)**  
+👉 **[Download My Cybersecurity Resume (PDF)](https://github.com/luces001207/github-portfolio/blob/main/EN%20MONG%20Cybersecurity%20Resume.pdf)**  
 
 ## 🚀 About Me
 
