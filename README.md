@@ -73,14 +73,14 @@ Python-based password entropy analyzer and validator.
 ---
 
 ### 🧠 **Keylogger** 
-A simple keylogger built for educational and ethical cybersecurity testing.
+A simple keylogger built for educational and ethical cybersecurity testing purposes.        
 ➡️ **Repo:** https://github.com/luces001207/Keylogger-PY
 
 ---
 
 ## 🏅 Certifications
 - **ISC2 Certified in Cybersecurity (CC)** — *June 2025*  
-- **CompTIA Security+**-*(Expected Dec 2025)*
+- **CompTIA Security+** — *(Expected Dec 2025)*
 
 ---
 
