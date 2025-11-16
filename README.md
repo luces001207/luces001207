@@ -1,40 +1,98 @@
-# 👋 Hi there, I'm Lucas Mong!
+# 👋 Hi, I'm **Lucas Mong**
 
-🎓 Master’s in Cybersecurity | Northeastern University (Class of 2027)  
-🔍 Focused on Threat Analysis • Digital Forensics • Blockchain Security  
-💼 Former Intern | Boston Homeland Security Investigations - Global Trade Division  
-👨‍💻 Aspiring SOC Analysts Intern | Hackathon Enthusiast | Capture The Flag (CTF) Competitor  
-
----
-
-## 🔐 About Me
-
-I'm a passionate cybersecurity graduate student with a dual undergraduate degree in **Criminal Justice & Sociology**, graduating *summa cum laude*. My mission is to bridge investigative criminology with modern cyber defense. I specialize in **network security**, **incident response**, and **vulnerability research**.
-
-Currently, I’m building projects around:
-
-- 🧠 **AI-powered threat detection systems**
-- 🔒 **Decentralized CVE reporting on Polkadot**
-- 🕵️‍♂️ **OSINT investigations and digital trace analysis**
-- 📦 **Secure file upload & web application exploit simulations**
+🎓 **M.S. Cybersecurity — Northeastern University (4.0 GPA)**  
+🎖️ **ISC2 Certified in Cybersecurity (CC)**  
+🔍 **Threat Detection • Incident Response • Digital Forensics • Cloud Security**  
+🛡️ **Aspiring SOC Analyst Intern | Blue Team Practitioner | Security Researcher**  
+💼 Former Intern — **Boston Homeland Security Investigations (Global Trade Division)**  
 
 ---
 
-## 🛠️ Tech Stack
+## 📄 My Resume
 
-- **Languages:** Python, C, JavaScript, Bash, Solidity  
-- **Cybersecurity:** Wireshark, Burp Suite, Autopsy, Ghidra, Metasploit, nmap  
-- **Blockchain:** Polkadot, IPFS, smart contracts, Substrate  
-- **Tools & Frameworks:** Flask, Node.js, Git, Docker, PostgreSQL  
-- **Other:** Kali Linux, Splunk, ELK Stack, OSINT tools  
+👉 **[Download My Cybersecurity Resume (PDF)](EN_MONG_Cybersecurity_Resume.pdf)**  
+
+## 🚀 About Me
+
+I'm a cybersecurity graduate student passionate about **defense, investigation, threat detection, and secure system engineering**.
+
+With a dual bachelor’s degree in **Criminology & Criminal Justice** and **Sociology** (*summa cum laude*), I combine:
+
+- 🕵️ Investigative & analytical thinking  
+- 🛡️ Modern cybersecurity engineering  
+- 💡 Hands-on blue team experience  
+
+My work covers **network security**, **malware analysis**, **SIEM detection engineering**, and **cryptographic systems**, with a growing interest in **blockchain security** and **decentralized threat intelligence**.
 
 ---
 
-## 🏆 Highlights
+## 🛠️ Technical Skillset
 
-- 🏅 Built a **Decentralized CVE Platform** using blockchain for secure and transparent vulnerability reporting  
-- 🥇 CTF participant: solved Web Exploitation, Cryptography, and Forensics challenges  
-- 🛡️ Developed a **Password Strength Checker** with secure coding practices and static/dynamic analysis  
-- 📚 Cyberlaw Research: *The Evolution of Privacy in the Digital Age*  
+### **Programming Languages**
+Python • Bash • PowerShell • C • SQL
+
+### **Security & Forensics**
+Splunk • Wazuh • Wireshark • Burp Suite • Nmap  
+Metasploit • Nessus • Volatility • Hashcat • John the Ripper  
+OpenSSL • tcpdump • iptables • Autopsy
+
+### **Operating Systems**
+MacOS • Microsoft Windows • Linux (Ubuntu, Kali) 
+
+### **Cloud Security**
+AWS & Azure log analysis • Cloud threat detection • IAM & policy security
+
+### **Frameworks / Standards**
+MITRE ATT&CK • NIST RMF • NIST CSF • ISO 27001  
+NIST SP 800-53 • HIPAA • Incident Response Lifecycle
+
+### **Tools & Platforms**
+Kali Linux • Ubuntu • Docker • Git  
+Firewall Engineering • Polkadot • IPFS • Substrate
 
 ---
+
+# 📂 Projects
+
+### 🔐 **Secure Group File Sharing Cryptosystem**  
+Hybrid ECC + ECDH + AES cryptographic system for secure multi-user file distribution.  
+➡️ **Repo:** https://github.com/luces001207/Secure-Group-File-Sharing-Cryptosystem
+
+---
+
+### 🌐 **Network Proxy & Firewall Engineering**  
+iptables firewall with DoS protection, packet filtering, and deep packet inspection using tcpdump.  
+➡️ **Repo:**
+
+---
+
+### 🔏 **Password Strength & Security Analyzer**  
+Python-based password entropy analyzer and validator.  
+➡️ **Repo:** https://github.com/luces001207/password-strength-analyzer
+
+---
+
+### 🧠 **Keylogger*  
+A simple keylogger built for educational and ethical cybersecurity testing.
+➡️ **Repo:** https://github.com/luces001207/Keylogger-PY
+
+---
+
+## 🏅 Certifications
+- **ISC2 Certified in Cybersecurity (CC)** — *June 2025*  
+- **CompTIA Security+ (Expected Dec 2025)*
+
+---
+
+## 📚 Academic Interests
+- Cryptography & secure system design  
+- Forensics & digital evidence  
+- Blockchain & decentralized threat intelligence  
+- SOC operations & malware analysis  
+
+---
+
+## 🌎 Connect With Me
+📧 Email: **mong.e@northeastern.edu**  
+🔗 LinkedIn: **https://www.linkedin.com/in/encimong**  
+💻 GitHub: **https://github.com/luces001207**
