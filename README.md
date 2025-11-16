@@ -28,7 +28,7 @@ My work covers **network security**, **malware analysis**, **SIEM detection engi
 
 ## 🛠️ Technical Skillset
 
-### **Programming Languages**
+### **Languages**
 Python • Bash • PowerShell • C • SQL
 
 ### **Security & Forensics**
