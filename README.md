@@ -55,7 +55,7 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 # 📂 Projects
 ### 📄 **Incident Response Handling Playbooks**
-Two fully developed Incident Response Playbooks and a documented execution workflow that demonstrates hands-on incident-handling skills.       
+Two fully developed IR Playbooks and a documented execution workflow that demonstrates hands-on incident-handling skills.       
 ➡️ **Repo:** https://github.com/luces001207/Incident-Response-Handling-Playbooks
 
 ---
