@@ -90,6 +90,7 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 ---
 
 ## 🏅 Certifications
+- **Google Foundations of Cybersecurity** - *Jan 2025*
 - **ISC2 Certified in Cybersecurity (CC)** — *June 2025*  
 - **CompTIA Security+** — *(Expected Dec 2025)*
 
