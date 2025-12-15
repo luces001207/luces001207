@@ -60,7 +60,7 @@ Two fully developed IR Playbooks and a documented execution workflow that demons
 
 ---
 
-### 📂 **Security Risk Management & Assessment Report **
+### 📂 **Security Risk Management & Assessment Report**
 Quantitative cybersecurity risk assessment and mitigation project using NIST frameworks, asset valuation, and prevention vs. response strategy analysis.   
 ➡️ **Repo:** https://github.com/luces001207/Security-Risk-Management-and-Assessment-Report 
 
