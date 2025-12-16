@@ -105,27 +105,27 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 ---
 
 ## 🔐 Core Cybersecurity, Networking & Access Management Concepts I Understand
--CIA Triad (Confidentiality, Integrity, Availability) – Understanding how security controls protect data from unauthorized access, modification, and service disruption.
--Defense in Depth – Applying layered security controls across network, system, application, and identity levels to reduce single points of failure.
--Networking Fundamentals – Strong understanding of TCP/IP, the OSI model, packet flow, ports, and network communication.
--Common Network Protocols – Familiarity with HTTP/HTTPS, DNS, DHCP, FTP, SMTP, SSH, and their associated security risks.
--Ports, Services & Attack Surface – Understanding how exposed services increase risk and how to minimize unnecessary access.
--Firewalls & Network Segmentation – Knowledge of firewall rules, VLANs, and segmentation to restrict lateral movement.
--Intrusion Detection & Prevention (IDS/IPS) – Understanding traffic monitoring, alerting, and detection methods.
--Packet & Traffic Analysis – Ability to recognize suspicious patterns in network traffic and abnormal behavior.
--Identity & Access Management (IAM) – Understanding how users, roles, and permissions are managed to control access to systems and data.
--Authentication vs Authorization – Knowing the difference between verifying identity and enforcing access rights.
--Multi-Factor Authentication (MFA) – Recognizing MFA as a critical control to mitigate credential compromise.
--Least Privilege Principle – Ensuring users, applications, and services have only the permissions necessary to perform tasks.
--Role-Based Access Control (RBAC) – Understanding how roles simplify permission management and reduce misconfigurations.
--Credential Security – Awareness of password policies, hashing, secure storage, and protection against brute-force attacks.
--Threat Modeling & Risk Assessment – Identifying assets, threats, vulnerabilities, and impact to prioritize security measures.
--Common Attack Vectors – Understanding attacks such as SQL injection, XSS, brute force, MITM, and privilege escalation.
--Secure Coding Practices – Emphasizing input validation, access checks, and secure error handling.
--Cryptography Fundamentals – Understanding hashing, encryption, digital signatures, key exchange, and secure communication.
--Incident Response Lifecycle – Familiarity with detection, containment, eradication, recovery, and lessons learned.
--Logging & Monitoring – Recognizing the importance of logs and alerts in detecting unauthorized access and incidents.
--Legal & Ethical Considerations – Awareness of privacy, compliance, and responsible security research.
+-CIA Triad (Confidentiality, Integrity, Availability) – Understanding how security controls protect data from unauthorized access, modification, and service disruption.   
+-Defense in Depth – Applying layered security controls across network, system, application, and identity levels to reduce single points of failure.     
+-Networking Fundamentals – Strong understanding of TCP/IP, the OSI model, packet flow, ports, and network communication.    
+-Common Network Protocols – Familiarity with HTTP/HTTPS, DNS, DHCP, FTP, SMTP, SSH, and their associated security risks.     
+-Ports, Services & Attack Surface – Understanding how exposed services increase risk and how to minimize unnecessary access.     
+-Firewalls & Network Segmentation – Knowledge of firewall rules, VLANs, and segmentation to restrict lateral movement.      
+-Intrusion Detection & Prevention (IDS/IPS) – Understanding traffic monitoring, alerting, and detection methods.    
+-Packet & Traffic Analysis – Ability to recognize suspicious patterns in network traffic and abnormal behavior.      
+-Identity & Access Management (IAM) – Understanding how users, roles, and permissions are managed to control access to systems and data.     
+-Authentication vs Authorization – Knowing the difference between verifying identity and enforcing access rights.     
+-Multi-Factor Authentication (MFA) – Recognizing MFA as a critical control to mitigate credential compromise.     
+-Least Privilege Principle – Ensuring users, applications, and services have only the permissions necessary to perform tasks.    
+-Role-Based Access Control (RBAC) – Understanding how roles simplify permission management and reduce misconfigurations.    
+-Credential Security – Awareness of password policies, hashing, secure storage, and protection against brute-force attacks.    
+-Threat Modeling & Risk Assessment – Identifying assets, threats, vulnerabilities, and impact to prioritize security measures.    
+-Common Attack Vectors – Understanding attacks such as SQL injection, XSS, brute force, MITM, and privilege escalation.    
+-Secure Coding Practices – Emphasizing input validation, access checks, and secure error handling.    
+-Cryptography Fundamentals – Understanding hashing, encryption, digital signatures, key exchange, and secure communication.    
+-Incident Response Lifecycle – Familiarity with detection, containment, eradication, recovery, and lessons learned.     
+-Logging & Monitoring – Recognizing the importance of logs and alerts in detecting unauthorized access and incidents.    
+-Legal & Ethical Considerations – Awareness of privacy, compliance, and responsible security research.      
 
 ---
 
