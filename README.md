@@ -96,6 +96,12 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 
 ---
 
+## 📝 CompTIA Security+ Exam Resources       
+This repository consolidates study resources, videos, practice materials, and review tools that helped me successfully pass the CompTIA Security+ (SY0-701) exam.          
+➡️ **Repo:** https://github.com/luces001207/COMPTIA-SECURITY-701       
+
+---
+
 ## 📚 Academic Interests
 - Cryptography & secure system design  
 - Forensics & digital evidence  
