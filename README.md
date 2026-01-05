@@ -2,7 +2,7 @@
 
 🎓 **M.S. Cybersecurity — Northeastern University (4.0 GPA)**  
 🎖️ **ISC2 Certified in Cybersecurity (CC)**  
-🏅 **CompTIA Security+ Certified**
+🏅 **CompTIA Security+ Certified**              
 🔍 **Threat Detection • Incident Response • Digital Forensics • Cloud Security**  
 🛡️ **Aspiring SOC Analyst Intern | Blue Team Practitioner | Security Researcher**  
 💼 Former Intern — **Boston Homeland Security Investigations (Global Trade Division)**       
