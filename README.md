@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Lucas Mong**
+# 👋 Hi, I'm **En "Lucas" Mong**
 
 🎓 **M.S. Cybersecurity — Northeastern University (4.0 GPA)**  
 🎖️ **ISC2 Certified in Cybersecurity (CC)**  
