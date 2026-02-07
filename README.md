@@ -55,7 +55,7 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 ---
 
 # 📂 Projects    
-### ⚔️ **Ret2libc Buffer Overflow Attack **         
+### ⚔️ **Ret2libc Buffer Overflow Attack**         
 Demonstration of stack-based buffer overflow attacks using shellcode injection and return-to-libc techniques to exploit a vulnerable C program in a 32-bit Linux environment.          
 ➡️ **Repo:** https://github.com/luces001207/Ret2libc_Buffer_Overflow_Attack            
 
