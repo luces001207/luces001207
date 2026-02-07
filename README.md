@@ -54,14 +54,20 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 ---
 
-# 📂 Projects
+# 📂 Projects    
+### ⚔️ **Ret2libc Buffer Overflow Attack **         
+Demonstration of stack-based buffer overflow attacks using shellcode injection and return-to-libc techniques to exploit a vulnerable C program in a 32-bit Linux environment.          
+➡️ **Repo:** https://github.com/luces001207/Ret2libc_Buffer_Overflow_Attack            
+
+---
+
 ### 📄 **Incident Response Handling Playbooks**
 Two fully developed IR Playbooks and a documented execution workflow that demonstrates hands-on incident-handling skills.       
 ➡️ **Repo:** https://github.com/luces001207/Incident-Response-Handling-Playbooks
 
 ---
 
-### 📂 **Security Risk Management & Assessment Report**
+### 📘 **Security Risk Management & Assessment Report**
 Quantitative cybersecurity risk assessment and mitigation project using NIST frameworks, asset valuation, and prevention vs. response strategy analysis.   
 ➡️ **Repo:** https://github.com/luces001207/Security-Risk-Management-and-Assessment-Report 
 
