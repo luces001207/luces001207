@@ -54,7 +54,13 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 ---
 
-# 📂 Projects    
+# 📂 Projects  
+### 🎟️ **Kerberos Enterprise Authentication**                      
+Enterprise authentication project deploying a full Kerberos realm with SSO across SSH and web services using Docker containers.       
+➡️ **Repo:** https://github.com/luces001207/Kerberos-Enterprise-Authentication-
+
+---
+
 ### ⚔️ **Ret2libc Buffer Overflow Attack**         
 Demonstration of stack-based buffer overflow attacks using shellcode injection and return-to-libc techniques to exploit a vulnerable C program in a 32-bit Linux environment.          
 ➡️ **Repo:** https://github.com/luces001207/Ret2libc_Buffer_Overflow_Attack            
