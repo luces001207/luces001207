@@ -54,7 +54,14 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 ---
 
-# 📂 Projects  
+# 📂 Projects 
+
+### 🐧 **Selinux Access Control**                      
+Securing Apache httpd with SELinux on Fedora — covering port policy enforcement, TLS certificate contexts, file labeling, RBAC role transitions, and user directory access control.  
+➡️ **Repo:** https://github.com/luces001207/selinux-access-control 
+
+---
+
 ### 🎟️ **Kerberos Enterprise Authentication**                      
 Enterprise authentication project deploying a full Kerberos realm with SSO across SSH and web services using Docker containers.       
 ➡️ **Repo:** https://github.com/luces001207/Kerberos-Enterprise-Authentication-
