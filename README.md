@@ -56,6 +56,13 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 # 📂 Projects 
 
+### ⚙️ **Software Bill of Materials (SBOM) Analysis**                      
+SBOM generation and vulnerability analysis of Flipper Zero firmware using Anchore Syft and Grype, applying IMDRF N73 and NTIA EO 14028 frameworks.
+➡️ **Repo:** https://github.com/luces001207/Software-Bill-of-Materials-SBOM-Analysis
+
+---
+
+
 ### 🐧 **Selinux Access Control**                      
 Securing Apache httpd with SELinux on Fedora — covering port policy enforcement, TLS certificate contexts, file labeling, RBAC role transitions, and user directory access control.  
 ➡️ **Repo:** https://github.com/luces001207/selinux-access-control 
