@@ -57,7 +57,7 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 # 📂 Projects 
 
 ### ⚙️ **Software Bill of Materials (SBOM) Analysis**                      
-SBOM generation and vulnerability analysis of Flipper Zero firmware using Anchore Syft and Grype, applying IMDRF N73 and NTIA EO 14028 frameworks.
+SBOM generation & vulnerability analysis of Flipper Zero firmware using Anchore Syft and Grype, applying IMDRF N73 and NTIA EO 14028 frameworks.
 ➡️ **Repo:** https://github.com/luces001207/Software-Bill-of-Materials-SBOM-Analysis
 
 ---
