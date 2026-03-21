@@ -56,6 +56,12 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 # 📂 Projects 
 
+### ☸️ **RBAC over Kubernetes Deployment**                      
+Access control project enforcing least privilege in Kubernetes through certificate-based authentication, namespace-scoped Roles, and cluster-wide ClusterRoles across a Minikube cluster.     
+➡️ **Repo:** https://github.com/luces001207/Kurbernetes-RBAC            
+
+---
+
 ### ⚙️ **Software Bill of Materials (SBOM) Analysis**                      
 SBOM generation and vulnerability analysis of Flipper Zero firmware using Anchore Syft and Grype, applying IMDRF N73 and NTIA EO 14028 frameworks.                                               
 ➡️ **Repo:** https://github.com/luces001207/Software-Bill-of-Materials-SBOM-Analysis
