@@ -58,7 +58,7 @@ Firewall Engineering • Polkadot • IPFS • Substrate
 
 ### ☸️ **RBAC over Kubernetes Deployment**                      
 Access control project enforcing least privilege in Kubernetes through certificate-based authentication, namespace-scoped Roles, and cluster-wide ClusterRoles across a Minikube cluster.     
-➡️ **Repo:** https://github.com/luces001207/Kurbernetes-RBAC            
+➡️ **Repo:** https://github.com/luces001207/Kubernetes-RBAC          
 
 ---
 
