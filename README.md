@@ -129,7 +129,7 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 
 ---
 
-##🏆 Awards & Achievements
+## 🏆 Awards & Achievements
 🥈 2nd Place — Social Engineering Competition (SEC 2026)
 Graduate Division | Northeastern University
 Hosted by The CARE Lab at Temple University
