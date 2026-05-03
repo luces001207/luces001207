@@ -130,11 +130,11 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 ---
 
 ## 🏆 Awards & Achievements
-🥈 2nd Place — Social Engineering Competition (SEC 2026)
-Graduate Division | Northeastern University
-Hosted by The CARE Lab at Temple University
+🥈 2nd Place — Social Engineering Competition (SEC 2026)             
+Graduate Division | Northeastern University                      
+Hosted by The CARE Lab at Temple University                      
 
-Competed as Team Layer 8 alongside Narmina Karimova, Gigi Liu, and Surya Ratnam Cherian in a multi-day social engineering exercise testing vishing, pretexting, and OSINT skills against simulated enterprise targets.
+Competed as Team Layer 8 alongside Narmina Karimova, Gigi Liu, and Surya Ratnam Cherian in a multi-day social engineering exercise testing vishing, pretexting, and OSINT skills against simulated enterprise targets.                   
 
 - Executed a two-day vishing exercise targeting a simulated pharmacy
 - Built vishing infrastructure, including TTS clip libraries and call flowcharts
