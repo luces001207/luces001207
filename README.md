@@ -143,12 +143,6 @@ Competed as Team Layer 8 alongside Narmina Karimova, Gigi Liu, and Surya Ratnam 
 
 ---
 
-## 📝 CompTIA Security+ Exam Resources       
-This repository consolidates study resources, videos, practice materials, and review tools that helped me successfully pass the CompTIA Security+ (SY0-701) exam.          
-➡️ **Repo:** https://github.com/luces001207/COMPTIA-SECURITY-701       
-
----
-
 ## 📚 Academic Interests
 - Cryptography & secure system design  
 - Forensics & digital evidence  
@@ -157,6 +151,11 @@ This repository consolidates study resources, videos, practice materials, and re
 
 ---
 
+## 📝 CompTIA Security+ Exam Resources       
+This repository consolidates study resources, videos, practice materials, and review tools that helped me successfully pass the CompTIA Security+ (SY0-701) exam.          
+➡️ **Repo:** https://github.com/luces001207/COMPTIA-SECURITY-701       
+
+---
 ## 🔐 Core Cybersecurity, Networking & Access Management Concepts I Understand
 - CIA Triad (Confidentiality, Integrity, Availability): Understanding how security controls protect data from unauthorized access, modification, and service disruption.   
 - Defense in Depth: Applying layered security controls across network, system, application, and identity levels to reduce single points of failure.     
