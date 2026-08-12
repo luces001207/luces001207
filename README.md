@@ -124,10 +124,10 @@ A simple keylogger built for educational and ethical cybersecurity testing purpo
 
 ## 🎤 Speaking & Presentations
 
-### 🛡️ DEF CON 34 — Biohacking Village (August 2026)
-**Speaker & Security Researcher** — *Wand Protocol: Full-Chain Medical Device Security Assessment*
-➡️ **Disclosure:** https://www.healthcareinfosecurity.com/20-flaws-in-fertility-tracker-risked-data-loss-fake-results-a-32476
-➡️ **CISA Advisory:** https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-223-01
+### 🛡️ DEF CON 34 — Biohacking Village (August 2026)              
+**Speaker & Security Researcher** — *Wand Protocol: Full-Chain Medical Device Security Assessment*      
+➡️ **Disclosure:** https://www.healthcareinfosecurity.com/20-flaws-in-fertility-tracker-risked-data-loss-fake-results-a-32476         
+➡️ **CISA Advisory:** https://www.cisa.gov/news-events/ics-medical-advisories/icsma-26-223-01         
 
 - Led full-chain security assessment of a femtech fertility hormone tracker across BLE, mobile, and cloud attack surfaces, uncovering **20 vulnerabilities** including BLE device takeover and a hardcoded API key exposing **~650,000 user records**.
 - Delivered live technical demonstration of exploit workflows using the **BLE Recon & Attack Toolkit (BRAT)**, covering recon, attack execution, and impact analysis.
